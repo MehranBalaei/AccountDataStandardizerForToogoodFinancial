@@ -3,14 +3,14 @@
 
 The  Transform System:
 
-- In this project I designed IDataReader interface so we can add new Data Reader to read data from new sources (XML, CSV, Database etc.)
+- In this project I designed IDataReader interface so we can add new Data Readers to read data from new sources (XML, CSV, Database etc.)
 	I also designed IDataFormatter interface so we can add new data formatters for new formats.
-	These interfaces are seperate, because one is about the format of data and the other is about source of it. For example you can have same format of data read from different sources (CSV, XML, etc.).
+	These interfaces are independent, because one is about format of data and the other is about source of it. For example you can have same format of data read from different sources (CSV, XML, etc.).
 
-- I use dependency injection in DataConverter's Convert method to make this. It takes an IDataReader and an IDataFormatter.
+- I use dependency injection in DataConverter's Convert method to make this unit more reusable and testable. It takes an IDataReader and an IDataFormatter.
 
 -The design I explained above makes this solution flexible and extensible. 
-  I have also kept the code simple and seperated classes/concepts and provided in-code comments to make sure the code is maintainable.
+  I have also kept the code simple by seperating classes/concepts and providing in-code comments to make sure the code is maintainable.
 
 - As stated in the system description, I did not fully design a data reader to read/convert data from CSV.
 	Instead I provided mock data readers that provide a few rows so you can see the application in action.
