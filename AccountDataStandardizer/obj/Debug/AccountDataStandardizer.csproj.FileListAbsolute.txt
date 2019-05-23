@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\AccountDataStandardizer\AccountDataStandardizer\bin\Debug\AccountDataStandardizer.exe.config
+C:\Users\Dell\source\repos\AccountDataStandardizer\AccountDataStandardizer\bin\Debug\AccountDataStandardizer.exe
+C:\Users\Dell\source\repos\AccountDataStandardizer\AccountDataStandardizer\bin\Debug\AccountDataStandardizer.pdb
+C:\Users\Dell\source\repos\AccountDataStandardizer\AccountDataStandardizer\obj\Debug\AccountDataStandardizer.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\AccountDataStandardizer\AccountDataStandardizer\obj\Debug\AccountDataStandardizer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\AccountDataStandardizer\AccountDataStandardizer\obj\Debug\AccountDataStandardizer.exe
+C:\Users\Dell\source\repos\AccountDataStandardizer\AccountDataStandardizer\obj\Debug\AccountDataStandardizer.pdb
